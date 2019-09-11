@@ -1,4 +1,5 @@
 //represents an object from DB
+//This is the structure we are going to send/receive from external parties
 
 package album
 
